@@ -16,3 +16,4 @@ if __name__ == "__main__":
     print("Number of results: {}".format(matching_ppl.get('count')))
     for person in matching_ppl.get('results'):
         print(person.get('name'))
+

@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """
 given URL as parameter, fetch URL and display value from reponse header
 usage: ./1-hbtn_header https://intranet.hbtn.io

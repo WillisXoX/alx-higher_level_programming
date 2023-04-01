@@ -31,3 +31,4 @@ if __name__ == '__main__':
                 print(person.get('name'))
             more = r.json().get('next')
             page += 1
+

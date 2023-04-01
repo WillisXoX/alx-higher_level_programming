@@ -37,3 +37,4 @@ if __name__ == '__main__':
                     print('\t{}'.format(f.json().get('title')))
             more = r.json().get('next')
             page += 1
+
